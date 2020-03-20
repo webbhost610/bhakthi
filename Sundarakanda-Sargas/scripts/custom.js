@@ -1,5 +1,5 @@
 "use strict";
-var test = {};
+var web = {};
 web.includeHTML = function(cb) {
 	alert("ENTERED");
   var z, i, elmnt, file, xhttp;
