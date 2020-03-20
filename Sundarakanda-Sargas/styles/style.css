@@ -35,7 +35,7 @@ body {
   .sidenav {padding-top: 15px;}
   .sidenav a {font-size: 10px;}
 }
-        	table {width: 75%;}
+        	table {width: 100%;}
             table, th, td { 
 		table-layout: fixed;
                 border: 1px solid black; 
