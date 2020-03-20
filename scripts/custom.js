@@ -1,3 +1,5 @@
+"use strict";
+var test = {};
 test.includeHTML = function(cb) {
 	alert("ENTERED");
   var z, i, elmnt, file, xhttp;
