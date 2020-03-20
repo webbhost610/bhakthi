@@ -1,4 +1,4 @@
-custom.includeHTML = function(cb) {
+test.includeHTML = function(cb) {
   var z, i, elmnt, file, xhttp;
   z = document.getElementsByTagName("*");
   for (i = 0; i < z.length; i++) {
@@ -12,7 +12,7 @@ custom.includeHTML = function(cb) {
           if (this.status == 200) {elmnt.innerHTML = this.responseText;}
           if (this.status == 404) {elmnt.innerHTML = "Page not found.";}
           elmnt.removeAttribute("w3-include-html");
-          custom.includeHTML(cb);
+          test.includeHTML(cb);
         }
       }      
       xhttp.open("GET", file, true);
