@@ -1,4 +1,5 @@
 test.includeHTML = function(cb) {
+	alert("ENTERED");
   var z, i, elmnt, file, xhttp;
   z = document.getElementsByTagName("*");
   for (i = 0; i < z.length; i++) {
