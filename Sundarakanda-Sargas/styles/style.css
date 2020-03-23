@@ -31,12 +31,6 @@ body {
   padding: 0px 10px;
 }
 
-.nav {
-  margin-left: 150px; /* Same as the width of the sidenav */
-  font-size: 20px; /* Increased text to enable scrolling */
-  padding: 0px 10px;
-  word-spacing: 890px;
-}
 div p {
   width:75%;
   margin-left: 150px; /* Same as the width of the sidenav */
