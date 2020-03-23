@@ -31,15 +31,50 @@ body {
   padding: 0px 10px;
 }
 
-@media screen and (max-height: 450px) {
-  .sidenav {padding-top: 15px;}
-  .sidenav a {font-size: 10px;}
+.nav {
+  margin-left: 150px; /* Same as the width of the sidenav */
+  font-size: 20px; /* Increased text to enable scrolling */
+  padding: 0px 10px;
+  word-spacing: 890px;
 }
-        	table {width: 75%;}
-            table, th, td { 
-		table-layout: fixed;
-                border: 1px solid black; 
-                border-collapse: collapse; 
-                padding: 6px;
-                } 
+div p {
+  width:75%;
+  margin-left: 150px; /* Same as the width of the sidenav */
+  font-size: 18px; /* Increased text to enable scrolling */
+  padding: 0px 10px;
+  text-align : center;
+  
+}
+
+.container{
+   width:80%;
+   margin : 0 auto;
+}
+header{
+  background:#55d6aa ;
+}
+
+nav{
+  float : right;
+}
+nav ul{
+   margin : 200;
+   padding : 40; 
+   list-style : none;
+}
+nav li{
+  display : inline-block;
+}
+.logo{
+   width: 200px;
+   height:100px
+   padding : 10px 0;
+}
+table {width: 85%;}
+table, th, td { 
+	table-layout: fixed;
+        border: 1px solid black; 
+        border-collapse: collapse; 
+        padding: 6px;
+} 
  
