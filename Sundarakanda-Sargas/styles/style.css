@@ -61,8 +61,8 @@ nav li{
   display : inline-block;
 }
 .logo{
-   width: 2px;
-   height:2px;
+   width: 200px;
+   height:200px;
    padding : 10px 0;
 }
 table {width: 85%;}
