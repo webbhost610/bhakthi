@@ -48,7 +48,12 @@ div p {
 header{
   background:#55d6aa ;
 }
-
+.nav {
+  margin-left: 150px; /* Same as the width of the sidenav */
+  font-size: 20px; /* Increased text to enable scrolling */
+  padding: 0px 10px;
+  word-spacing: 890px;
+}
 nav{
   float : right;
 }
@@ -61,8 +66,8 @@ nav li{
   display : inline-block;
 }
 .logo{
-   width: 200px;
-   height:200px;
+   width: 500px;
+   height:100px;
    padding : 10px 0;
 }
 table {width: 85%;}
