@@ -1,6 +1,6 @@
 
 
-<img src="./Capture.PNG" width="100" height="100">
+<img src="./Capture.PNG" width="400" height="200">
 <br><br>
 [బాల కాండ - ప్రథమ సర్గ/సంక్షిప్త రామాయణం-శ్లోకాలు మాత్రమే](./Balakanda-Sloka/Only-Sloka.html)
 
