@@ -12,7 +12,7 @@
 
 [ఆదిత్య హృదయము-శ్లోకాలు మరియు తాత్పర్యము](./Adithya-Hryudayam/Adithya.html)
 
-[హనుమాన్ చాలీసా](./Hanuman_Chalisa.html)
+[హనుమాన్ చాలీసా](./Hanuman_Chalisa.html)  
 
 
   
