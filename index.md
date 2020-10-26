@@ -18,6 +18,7 @@
 
 [హనుమాన్ చాలీసా](./Hanuman_Chalisa/hanuman.chalisa.html)  
 
+[లలితా సహస్రనామావళి ](./lalitha/Lalitha.sahasram.html) 
 
   
  
