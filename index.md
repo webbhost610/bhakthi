@@ -22,5 +22,7 @@
 
 [कालभैरवाष्टकम् / కాలభైరవాష్టకమ్ ](./Kalabhairava/kalabhairava.html)
 
+[లలితా సహస్రనామ తాత్పర్యమ్](./Lalitha-Meanings\ls-meaning.html)
+
   
  
